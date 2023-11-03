@@ -20,3 +20,8 @@ img {
   width: auto;
   height: auto;
 }
+
+ul {
+  display: flex;
+  gap: 30px;
+}
